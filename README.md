@@ -39,9 +39,17 @@ Download the repo from Github.  Run ```npm install``` for the following dependen
 - Turn off server and run ```node seeds``` to seed database tables with data
 - Start server again with ```npm start``` and use Insomnia to test/use associated routes
 
-[Walkthrough video](https://watch.screencastify.com/v/U6wEVYKIIfudGfv1QpRT)
+[Walkthrough video](https://watch.screencastify.com/v/7lP10MNyIdRqXws1zOYE)
+
+Showing that the video's sharing setting is set to anyone with link
+
+![Screenshot](./assets/screenshare-screenshot.png)
+
+Terminal on ```npm start```
 
 ![Screenshot](./assets/screenshot.png)
+
+Insomnia application showing all api routes
 
 ![Screenshot](./assets/screenshot-insomnia.png)
 
